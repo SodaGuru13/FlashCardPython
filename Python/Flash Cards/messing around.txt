@@ -1,0 +1,16 @@
+Name, sites, type, rating, price
+count = 0;
+string[] output = new string[0];
+for(int i = 0; i <= name.upperbound(0); ++i)
+{
+	if(inputName.Upper() == name[i].ToUpper())
+	{
+		Array.Resize<string>(ref output, output.Length + 1);
+		output = name[i].PadRight(50) + sites[i].ToString().PadLeft(10) + "  " + type[i].PadRight(10) + rating[i].ToString().PadLeft(10) + price[0].PadLeft(10);
+	}
+}
+string[] temp = new string[0];
+for(int i = 0; i <= output.upperbound(0); ++i)
+{
+	if(
+}
