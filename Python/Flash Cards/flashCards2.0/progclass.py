@@ -117,7 +117,7 @@ class ProgramClass:
             end_function = None
             hit_break = False
             for info_function in self.class_functions[start:]:
-                end_function = info_function.func_create_test_file()
+                end_function = info_function.add_test_files_to_func()
                 if type(end_function) != tuple and end_function is True:
                     hit_break = True
                     break

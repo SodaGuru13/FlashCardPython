@@ -169,7 +169,15 @@
           "built-in list, set, and tuples classes, as well as the collections module."
          ],
          "class_functions": [],
-         "class_test_files": []
+         "class_test_files": [
+          {
+           "test_file_name": "test_for_multiple_applications.py",
+           "test_file_caption": [
+            "Runs the tests outlined in the definition of the class dict in the section named",
+            "Mapping Types -- dict."
+           ]
+          }
+         ]
         },
         {
          "class_name": "class dict(**kwargs), class dict(mapping, **kwargs), class dict(iterable, **kwargs)",
@@ -200,7 +208,15 @@
           "identifiers. Otherwise, any valid keys can be used."
          ],
          "class_functions": [],
-         "class_test_files": []
+         "class_test_files": [
+          {
+           "test_file_name": "test_for_multiple_applications.py",
+           "test_file_caption": [
+            "Runs the tests outlined in the definition of the class dict in the section named",
+            "Mapping Types -- dict."
+           ]
+          }
+         ]
         },
         {
          "class_name": "class frozenset(iterable=set())",
@@ -210,7 +226,15 @@
           "documentation about this class."
          ],
          "class_functions": [],
-         "class_test_files": []
+         "class_test_files": [
+          {
+           "test_file_name": "test_for_multiple_applications.py",
+           "test_file_caption": [
+            "Testing the code from the Programiz website to get a better understanding of the",
+            "frozenset() function."
+           ]
+          }
+         ]
         },
         {
          "class_name": "class int(x=0), class int(x, base=10)",

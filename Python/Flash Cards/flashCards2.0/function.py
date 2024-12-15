@@ -26,7 +26,8 @@ class Function:
 
     def quiz_function(self):
         print(Fore.LIGHTGREEN_EX + f'Function Name:\n\t{self.function_name}')
-        choice = input(Fore.WHITE + 'Exit: e | Exit and Save: s | Continue: enter key\n' + Fore.LIGHTBLUE_EX + '\tChoose: ')
+        choice = input(Fore.WHITE + 'Exit: e | Exit and Save: s | Continue: enter key\n' + Fore.LIGHTBLUE_EX
+                       + '\tChoose: ')
         if choice == 'e':
             return True
         if choice == 's':
@@ -53,8 +54,8 @@ class Function:
 
     def add_test_files_to_func(self, resume=None):
         print(Fore.LIGHTGREEN_EX + f'Function Name:\n\t{self.function_name}')
-        choice = input(Fore.WHITE + 'Exit: e | Exit and Save: s | Continue Adding Test Files to Functions: enter key\n' + Fore.LIGHTBLUE_EX
-                       + '\tChoose: ')
+        choice = input(Fore.WHITE + 'Exit: e | Exit and Save: s | Continue Adding Test Files to Functions: enter key\n'
+                       + Fore.LIGHTBLUE_EX + '\tChoose: ')
         if choice == 'e':
             return True
         if choice == 's':
