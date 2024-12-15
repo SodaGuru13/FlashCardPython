@@ -1,8 +1,0 @@
-{
- "class_name": "class dict(**kwarg), class dict(mapping, **kwarg), class dict(iterable, **kwarg)",
- "display_type": "t",
- "book_list_name": "Flash Card Book List",
- "book_title": "The Python Standard Library",
- "chapter_name": "Introduction through Built-in Types",
- "section_name": "Notes On Availability through Integer String Conversion Length Limitation"
-}
