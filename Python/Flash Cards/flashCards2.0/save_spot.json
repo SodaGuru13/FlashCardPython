@@ -1,0 +1,8 @@
+{
+ "function_name": "Emscripten",
+ "display_type": "r",
+ "book_list_name": "Flash Card Book List",
+ "book_title": "The Python Standard Library",
+ "chapter_name": "Introduction through Built-in Types",
+ "section_name": "Notes On Availability through Integer String Conversion Length Limitation"
+}
